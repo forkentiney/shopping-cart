@@ -26,6 +26,20 @@ body {
 	color: var(--text);
 }
 
+main {
+	margin: 1in 0;
+}
+
+h2 {
+	font-size: 48px;
+	text-shadow: 0 0 8px var(--blue);
+}
+
+h3 {
+	font-size: 40px;
+	text-shadow: 0 0 4px var(--blue);
+}
+
 .flex {
 	display: flex;
 	align-items: center;

@@ -11,6 +11,7 @@ nav {
 }
 
 button {
+	text-shadow: 0 0 8px var(--blue);
 	font-variant: small-caps;
 	font-size: 18px;
 	padding: 1em 2em;
