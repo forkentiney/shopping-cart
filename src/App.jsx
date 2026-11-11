@@ -1,10 +1,11 @@
 import { useState } from 'react'
-import './styles/App.css'
+import styles from './styles/App.css'
+import Nav from './components/Nav.jsx';
 
 function App() {
   return (
-		<h1>Title</h1>
-	)
-}
+		<Nav />
+	);
+};
 
 export default App
